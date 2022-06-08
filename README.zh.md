@@ -1,4 +1,4 @@
-# AnLinkTranslation 中文翻译版
+# AnLinkTranslation
 ### | [English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md) |中文
 
 这是什么？
